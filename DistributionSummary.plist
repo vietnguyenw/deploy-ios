@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DaysakiGo.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>A4BE7905A4778828AD988306984999F8AF109EAC</string>
+				<key>dateExpires</key>
+				<string>8/6/22</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>A4BE7905A4778828AD988306984999F8AF109EAC</string>
+						<key>dateExpires</key>
+						<string>8/6/22</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>OpenSSL.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>48WP2TX7ZQ</string>
+						<key>name</key>
+						<string>CAO VY SOFTWARE SERVICES COMPANY LIMITED</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>48WP2TX7ZQ.com.itbeesolutions.DaysakiGo</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>48WP2TX7ZQ</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>DaysakiGo.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>7d2ed881-31bb-43d3-b833-39ca2d68dfa7</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.itbeesolutions.DaysakiGo</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>48WP2TX7ZQ</string>
+				<key>name</key>
+				<string>CAO VY SOFTWARE SERVICES COMPANY LIMITED</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
